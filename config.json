@@ -1,0 +1,23 @@
+{
+  "TOKEN": "MTI2MTc5NTY4NTk1OTk5MTQzNw.GkgnMT.hI3W-pLAQKh9vLRRySA9q60JocWbuoYFkNSbP8",
+  "DEVELOPER_IDS": [
+    "1258799116897615885",
+    "705199936580485240"
+  ],
+  "channels": {
+    "kanitlarimiz": "1262059729069281372"
+  },
+  "webhooks": {
+    "bilgilendirme": "1262059727005814865",
+    "takviye_odulleri": "1262059731350982697",
+    "robux": "1262059733637140510"
+  },
+  "welcomeChannelId": "1262059740821983303",
+  "rewardChannelId": "1261413450655993867",
+  "webhookIds": {
+    "bilgilendirme": "1261413429525086281",
+    "takviye_odulleri": "1261413445073375484",
+    "robux": "1261413449066348607",
+    "odul_al": "1261413453026037780"
+  }
+}
